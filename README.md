@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ethan Maxwell Harris! I'm a Dreamer, Developer, and Cool Dude 😄.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ethan Maxwell Harris! I'm learning web/software development to transition to the field and learn something new along the way 😄.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DNG-3220-M4"/>
 
