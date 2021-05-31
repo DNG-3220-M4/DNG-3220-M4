@@ -1,32 +1,23 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ethan Maxwell Harris! I'm learning web/software development to transition to the field and learn something new along the way 😄.
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DNG-3220-M4"/>
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ethan Maxwell Harris! I'm learning web/software development to transition to the field and do some cool things along the way 🐱‍👤😁.
 
 I'm currently learning 🌱:
-HTML
-CSS
-JavaScript
+HTML, CSS, JavaScript
 
 I'm excited to learn ⚡:
-Blockchain
-NFT's
-Ruby
+Blockchain, NFT's, Ruby
 
+---
 
-![](https://img.shields.io/twitch/status/scrambledeggradio?label=Hey%2C%20look%20I%27m&style=social) ![](https://img.shields.io/reddit/user-karma/combined/achaidas?label=proof%20of%20time%20wasted&style=social)
+![DNG-3220-M4's GitHub stats](https://github-readme-stats.vercel.app/api?username=DNG-3220-M4&show_icons=true&theme=graywhite)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DNG-3220-M4&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+![](https://img.shields.io/twitch/status/scrambledeggradio?label=Hey%2C%20look%20I%27m&style=social) ![](https://img.shields.io/reddit/user-karma/combined/achaidas?label=points%20for%20time%20wasted&style=social)
+
+I'm looking to collaborate as part of my learning journey! 📭
 
 <!--
-**DNG-3220-M4/DNG-3220-M4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://github.com/anuraghazra/github-readme-stats & https://catalins.tech/how-to-create-a-kickass-github-profile-page & https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 are the resources I used to create this GitHub ReadMe
 -->
