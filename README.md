@@ -1,10 +1,10 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ethan Maxwell Harris! I'm learning web/software development to transition to the field and do some cool things along the way 🐱‍👤😁.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ethan Maxwell Harris! I'm a 30-something going back for a second degree in Computer Science to transition to the field and do some cool things along the way 🐱‍👤😁.
 
 I'm currently learning 🌱:
-HTML, CSS, JavaScript
+CompTIA Project+, Java, C++, Python
 
 I'm excited to learn ⚡:
-Blockchain, NFT's, Ruby
+Solidity, Smart Contracts
 
 ---
 
