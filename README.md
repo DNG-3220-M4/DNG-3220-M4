@@ -8,9 +8,9 @@ Solidity, Smart Contracts
 
 ---
 
-![DNG-3220-M4's GitHub stats](https://github-readme-stats.vercel.app/api?username=DNG-3220-M4&show_icons=true&theme=graywhite)
+![DNG-3220-M4's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanmaxwellharris&show_icons=true&theme=graywhite)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DNG-3220-M4&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanmaxwellharris&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
