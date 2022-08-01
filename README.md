@@ -1,10 +1,13 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ethan Maxwell Harris! I'm a 30-something going back for a second degree in Computer Science to transition to the field and do some cool things along the way 🐱‍👤😁.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ethan Maxwell Harris! I'm a former Probation Officer going back for a second degree in Computer Science who has successfully transitioned into work as a Business Data Analyst and I'm looking to do some cool things along the way 🐱‍👤😁.
 
 I'm currently learning 🌱:
-CompTIA Project+, Java, C++, Python
+Oracle, API Utilization, 
 
 I'm excited to learn ⚡:
 Solidity, Smart Contracts
+
+I'm confident I've learned 💡:
+SQL, Python, DS&A, & that I'll never STOP learning
 
 ---
 
