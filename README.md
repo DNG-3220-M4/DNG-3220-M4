@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ethan Maxwell Harris! I'm a former Probation Officer going back for a second degree in Computer Science who has successfully transitioned into work as a Business Data Analyst and I'm looking to do some cool things along the way 🐱‍👤😁.
 
 I'm currently learning 🌱:
-Oracle, API Utilization, 
+Oracle's flavor of SQL, API Utilization and Postman, 
 
 I'm excited to learn ⚡:
 Solidity, Smart Contracts
